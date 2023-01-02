@@ -14,6 +14,6 @@ To get started ,the following are minimum requirements:
 
 1.Pycharm or any other Python friendly  IDE
 
+---
 
-
-
+<img alt="GitHub" src="https://img.shields.io/github/license/WahomeKezia/Python_Beginer_Projects">
