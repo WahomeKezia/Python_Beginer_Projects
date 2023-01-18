@@ -4,7 +4,7 @@
   <img src ="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" alt="Pycharm" width="100" height="100"/>
   </div>
 
-# Pyhton_Beginer_Projects
+# Python_Beginer_Projects
 
 These are a series of beginer freidly python games to get you started with python 
 
