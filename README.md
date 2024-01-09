@@ -6,7 +6,7 @@
 
 # Python_Beginer_Projects
 
-These are a series of beginer freidly python games to get you started with python 
+These are a series of beginner freindly python games to get you started with python 
 
 # Prerequisites
 
